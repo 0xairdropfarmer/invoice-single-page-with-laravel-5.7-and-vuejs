@@ -7,11 +7,7 @@ use Faker\Factory;
 
 class InvoicesTableSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     *
-     * @return void
-     */
+   
     public function run()
     {
         $faker = Factory::create();
